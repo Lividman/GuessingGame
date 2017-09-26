@@ -1,3 +1,4 @@
+import java.lang.Math;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 public class GuessingGame
@@ -39,9 +40,9 @@ public class GuessingGame
 			}
 			catch(InputMismatchException e)
 			{
-				System.out.print("What you put is not an integer, try again");
+				System.out.println("What you put is not an integer, try again");
+				input.nextLine();
 				count ++;
-				guess = input.nextInt();
 			}
 		
 		}
