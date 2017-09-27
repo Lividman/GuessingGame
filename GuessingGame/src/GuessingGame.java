@@ -36,15 +36,15 @@ public class GuessingGame
 					System.out.println("Not right young man try again lol");
 				}
 						
-				
+				//I like my own code very much
 			}
 			catch(InputMismatchException e)
 			{
 				System.out.println("What you put is not an integer, try again");
 				input.nextLine();
-				count++;
+				count ++;
 			}
-		
+		//10/10 code i would make this code again as long as i get a 100 in this class
 		}
 	}
 }
