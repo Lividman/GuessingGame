@@ -4,8 +4,8 @@ import java.util.Scanner;
 public class GuessingGame
 {
 	// Nice job with adding counter to keep track of how many tries it took. Hello world dfdfssdsd
-	// Nice job with adding counter to keep track of how many tries it took. Thank you i really think that was a nice idea ye. dude lol
-	//XD OUT LOUD AM I RIGHT?!?!??!?!?!??:!?!?!?:!?
+	// Nice job with adding counter to keep track of how many tries it took. Thank you i really think that was a nice idea ye.
+	// nty
 
 	public static void main(String[]args)
 	{
