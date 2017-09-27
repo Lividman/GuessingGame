@@ -3,7 +3,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 public class GuessingGame
 {
-	
+	// Nice job with adding counter to keep track of how many tries it took.
 	public static void main(String[]args)
 	{
 		Scanner input = new Scanner(System.in);
