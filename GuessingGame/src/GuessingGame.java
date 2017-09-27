@@ -42,7 +42,7 @@ public class GuessingGame
 			{
 				System.out.println("What you put is not an integer, try again");
 				input.nextLine();
-				count ++;
+				count++;
 			}
 		
 		}
